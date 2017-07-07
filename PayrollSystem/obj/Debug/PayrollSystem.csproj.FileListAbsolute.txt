@@ -1,0 +1,54 @@
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\EntityFramework.dll
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\EntityFramework.xml
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\MainWindow.g.cs
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\App.g.cs
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem_MarkupCompile.cache
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem_MarkupCompile.lref
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\MainWindow.baml
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.g.resources
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.Properties.Resources.resources
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.GenerateResource.Cache
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\CreateUser.g.cs
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\CreateUser.baml
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.Migrations.next.resources
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.Migrations.update.resources
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.Migrations.paymentupdate.resources
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\MainUI.g.cs
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\MainUI.baml
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\AddUpdateEmployee.g.cs
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\AddUpdateEmployee.baml
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.Migrations.updatePay.resources
+E:\Software Engineering Development\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\EntityFramework.dll
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\EntityFramework.xml
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\AddUpdateEmployee.g.cs
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\CreateUser.g.cs
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\MainUI.g.cs
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\App.g.cs
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem_MarkupCompile.cache
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem_MarkupCompile.lref
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\AddUpdateEmployee.baml
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\CreateUser.baml
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\MainUI.baml
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\MainWindow.baml
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.g.resources
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.Properties.Resources.resources
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.GenerateResource.Cache
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.Migrations.InitialCreate.resources
+C:\Users\Nadia\Desktop\Assessment 4\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.Migrations.update.resources

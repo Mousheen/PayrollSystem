@@ -1,0 +1,32 @@
+﻿<Window x:Class="PayrollSystem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PayrollSystem"
+        mc:Ignorable="d"
+        Title="Oasis Payroll System" Height="362.8" Width="525" Background="White">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Border BorderThickness="1" Grid.ColumnSpan="3" Margin="0,254,0.4,-0.4" VerticalAlignment="Top" Width="518" BorderBrush="#FF999999" Height="80"/>
+
+        <TextBox x:Name="txtUserName" Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="23" Margin="176,114,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="275" PreviewKeyDown="txtUserName_PreviewKeyDown"/>
+        <Label Grid.ColumnSpan="3" Content="Enter Username:" HorizontalAlignment="Left" Margin="75,112,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.517,0.422"/>
+        <Label Grid.ColumnSpan="3" Content="Enter Password:" HorizontalAlignment="Left" Margin="78,141,0,0" VerticalAlignment="Top"/>
+        <Label Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="189,265,0,0" VerticalAlignment="Top">
+            <Label Content="Dont Have an Account?"/>
+        </Label>
+        <Label x:Name="lblCreateUser" Padding="10" Grid.ColumnSpan="3" Content="CREATE ONE HERE" HorizontalAlignment="Left" Margin="189,281,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="14" Foreground="#FF2A69AE" Cursor="Hand" Height="38" MouseLeftButtonUp="lblCreateUser_MouseLeftButtonUp"/>
+        <Label Grid.ColumnSpan="3" Content="WELCOME TO OASIS PAYROLL SYSTEM" Margin="135,29,19.4,0" VerticalAlignment="Top" Width="364" HorizontalContentAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontFamily="Malgun Gothic" FontSize="18" Foreground="#FF29ABE2"/>
+        <PasswordBox x:Name="txtPassword" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="176,144,0,0" VerticalAlignment="Top" Width="275" Height="23"/>
+        <Button x:Name="btnLogin" Grid.ColumnSpan="3" Content="LOGIN
+" HorizontalAlignment="Left" Margin="176,181,0,0" VerticalAlignment="Top" Width="275" Height="34" Click="btnLogin_Click" Background="White" BorderBrush="#FF2A69AE" FontWeight="Bold" FontSize="14" Foreground="#FF435F7F"/>
+        <Image Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="72" Margin="10,10,0,0" VerticalAlignment="Top" Width="112" Source="Resources/MainLogo.jpg" Stretch="Fill"/>
+
+    </Grid>
+</Window>
